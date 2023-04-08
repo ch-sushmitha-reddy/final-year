@@ -2,7 +2,7 @@ Title of the Project        :   A CNN-BASED STRUTURE FOR CORRELATION OF CONTACTL
 
 Name of the Students  :     Sushmitha Reddy Chennareddy, Marella Mansi,Priyadharsini P
 
-Register Number(s):          211419104047, 211419104161, 211419104203
+Register Number(s):          211419104047, 211419104163, 211419104203
 
  Name of the Guide:            Dr. A. Hemlathadhevi, M.E., Ph.d.,
 
